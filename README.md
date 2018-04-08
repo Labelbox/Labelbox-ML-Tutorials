@@ -13,4 +13,4 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ## Tutorials
-1. Identifying Hand Written Digits
+1. [Identifying Hand Written Digits](https://medium.com/labelbox/identifying-hand-written-digits-beta-51d71f5c883f)
