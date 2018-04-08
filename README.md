@@ -1,7 +1,7 @@
 # Labelbox Tutorials
 Machine learning tutorials using Python and Jupyter Notebook
 ## Setup
-1. Clone this repository locally, and cd into it
+1. Clone this repository locally, and `cd` into it
 2. Install Python dependencies **(Skip if using Anaconda)**
 ```sh
 virtualenv -p python3 venv
