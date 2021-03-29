@@ -32,7 +32,7 @@ Pillow==5.0.0
 prompt-toolkit==1.0.15
 protobuf==3.5.1
 ptyprocess==0.5.2
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 pyzmq==17.0.0
 qtconsole==4.3.1
